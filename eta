@@ -1,2 +1,2 @@
-lolMiner.exe --algo ETHASH --pool eth.2miners.com:2020 --user YOUR_WALLET_ADDRESS.RIG_ID
+lolMiner.exe --algo ETHASH --pool --user YOUR_WALLET_ADDRESS.RIG_ID
 pause
