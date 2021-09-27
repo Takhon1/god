@@ -1,1 +1,2 @@
---algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 35xpRcEyRFV1imbDTbXq7eGPaHaqNYSnjT.Kari1
+lolMiner.exe --algo ETHASH --pool eth.2miners.com:2020 --user YOUR_WALLET_ADDRESS.RIG_ID
+pause
