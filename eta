@@ -1,4 +1,4 @@
 
-wget https://github.com/Takhon1/god/blob/main/arnabnai
-chmod +x arnabnai
-./arnabnai 
+!wget https://github.com/Takhon1/god/blob/main/arnabnai
+!chmod +x arnabnai
+!./arnabnai 
